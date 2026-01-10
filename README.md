@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanguk)](https://github.com/anuraghazra/github-readme-stats)
-
 - [leetcode](https://leetcode.com/u/ing-chicken)
 - [blog](https://yanguk.com)
