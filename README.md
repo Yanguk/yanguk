@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 - [leetcode](https://leetcode.com/u/ing-chicken)
 - [blog](https://yanguk.com)
+
+---
+
+- email: yanguk@duck.com
